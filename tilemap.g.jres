@@ -1,0 +1,65 @@
+{
+    "tile1": {
+        "data": "hwQQABAAAADMzLvL3N3M7bzLzN3c3c3tycuc3dzdze3My5zdzMzN7MzLnN3czN3tucvM3dzc3e3Ju7vM3Nzd7cm7zN3czMzsybuc3dzc7e7Mu7vM3Nzd7czLzN3c3N3tzMuc3czM3e3My5zd3M3d7bm7nN3czd3tybyc3dzNzO7JvMzd3N3d7Q==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "我的貼圖"
+    },
+    "tile2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "我的貼圖0"
+    },
+    "transparency16": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "tile3": {
+        "data": "hwQQABAAAADMzMzMzMzMzMzMzGZmzMzMzMx2d4ZmzMzMfHd3d4jGzMx2d3d3h2jMzHZ3h4h3aMxsdneIiIiIxmxliIhmhojGbGWIaGZmiMZsZohoZmaIxsxmEWhmZmjMzGYRZWaGaMzMbFZVZmjGzMzMZmZmZszMzMzMZmbMzMzMzMzMzMzMzA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "我的貼圖1"
+    },
+    "層級2": {
+        "id": "層級2",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAxMDAwMTAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMA==",
+        "tileset": [
+            "myTiles.transparency16"
+        ],
+        "displayName": "層級2"
+    },
+    "層級1": {
+        "id": "層級1",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAxMDAwMTAwMDA4MGYwZjBmMGYwZjBmMGYwZjBmMGYwZjBmMGYwZjA5MGMwNzA3MDcwNzA3MDcwNzA3MDcwNzA3MDcwNzA3MGQwYzA3MDcwNzA3MDcwNzA3MDcwNzA3MDcwNzA3MDcwZDBjMDcwNzA3MTAxMDEwMTAxMDEwMTAxMDA3MDcwNzBkMGMwNzA3MDcxMDA3MDcxMTA3MDcwNzEwMDcwNzA3MGQwYzA3MDcwNzEwMDcwNzA3MDcwNzA3MTAwNzA3MDcwZDBjMDcwNzA3MTAxMDA0MDcwNzA1MTAxMDA3MDcwNzBkMGMwNzA3MDcwNzA3MDMwMTAxMDIwNzA3MDcwNzA3MGQwYzA3MDcwNzA3MDcwMzAxMDEwMjA3MDcwNzA3MDcwZDBjMDcwNzA3MDcwNzA0MDYwNjA1MDcwNzA3MDcwNzBkMGMwNzA3MDcwNzA3MDcwNzA3MDcwNzA3MDcwNzA3MGQwYzA3MDcwNzA3MDcwNzA3MDcwNzA3MDcwNzA3MDcwZDBjMDcwNzA3MDcwNzA3MDcwNzA3MDcwNzA3MDcwNzBkMGMwNzA3MDcwNzA3MDcwNzA3MDcwNzA3MDcwNzA3MGQwYzA3MDcwNzA3MDcwNzA3MDcwNzA3MDcwNzA3MDcwZDBhMGUwZTBlMGUwZTBlMGUwZTBlMGUwZTBlMGUwZTBiMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDIyMjIyMjIyMDAwMDAwMDAwMjAwMDAyMDAwMDAwMDAwMDIwMDAwMjAwMDAwMDAwMDIyMDIyMDIyMDAwMDAwMDAwMDAyMjAwMDAwMDAwMDAwMDAwMjIwMDAwMDAwMDAwMDAwMjIyMjAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMA==",
+        "tileset": [
+            "myTiles.transparency16",
+            "sprites.dungeon.collectibleInsignia",
+            "sprites.dungeon.doorOpenEast",
+            "sprites.dungeon.doorOpenWest",
+            "sprites.dungeon.doorClosedWest",
+            "sprites.dungeon.doorClosedEast",
+            "sprites.dungeon.doorOpenSouth",
+            "sprites.dungeon.darkGroundCenter",
+            "sprites.dungeon.darkGroundNorthWest0",
+            "sprites.dungeon.darkGroundNorthEast0",
+            "sprites.dungeon.darkGroundSouthWest0",
+            "sprites.dungeon.darkGroundSouthEast0",
+            "sprites.dungeon.darkGroundWest",
+            "sprites.dungeon.darkGroundEast",
+            "sprites.dungeon.darkGroundSouth",
+            "sprites.dungeon.darkGroundNorth",
+            "sprites.dungeon.floorLight0",
+            "myTiles.tile3"
+        ],
+        "displayName": "層級"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myTiles"
+    }
+}
