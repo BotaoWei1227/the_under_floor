@@ -5,9 +5,13 @@ scene.onOverlapTile(SpriteKind.Player, assets.tile`我的貼圖1`, function (spr
     tiles.setCurrentTilemap(tilemap`層級4`)
     pause(1000)
     tiles.setCurrentTilemap(tilemap`層級0`)
+    console.logValue("地圖", 2)
     tiles.placeOnRandomTile(player_1, sprites.skillmap.islandTile4)
 })
 let player_1: Sprite = null
+console.log("WALK X")
+console.log("WALK Y")
+console.log("地圖")
 player_1 = sprites.create(img`
     . . . . . . f f f f . . . . . . 
     . . . . f f f 2 2 f f f . . . . 
@@ -102,8 +106,13 @@ true
 )
 controller.moveSprite(player_1, 50, 100)
 tiles.setCurrentTilemap(tilemap`層級`)
+console.logValue("地圖", 1)
 tiles.placeOnRandomTile(player_1, sprites.dungeon.collectibleInsignia)
 scene.cameraFollowSprite(player_1)
 pause(100)
 game.showLongText("Where am I?", DialogLayout.Bottom)
 game.showLongText("Who am I?", DialogLayout.Bottom)
+forever(function () {
+    console.logValue("WALK X", player_1.x)
+    console.logValue("WALK Y", player_1.y)
+})
