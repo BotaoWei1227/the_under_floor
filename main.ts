@@ -100,7 +100,7 @@ player_1,
 1000,
 true
 )
-controller.moveSprite(player_1, 50, 60)
+controller.moveSprite(player_1, 50, 100)
 tiles.setCurrentTilemap(tilemap`層級`)
 tiles.placeOnRandomTile(player_1, sprites.dungeon.collectibleInsignia)
 scene.cameraFollowSprite(player_1)
