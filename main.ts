@@ -1,7 +1,14 @@
 scene.onOverlapTile(SpriteKind.Player, assets.tile`我的貼圖1`, function (sprite, location) {
-	
+    game.showLongText("What is this?", DialogLayout.Bottom)
+    game.splash("Touch me!")
+    game.showLongText("Arrrrr!", DialogLayout.Bottom)
+    tiles.setCurrentTilemap(tilemap`層級4`)
+    pause(1000)
+    tiles.setCurrentTilemap(tilemap`層級0`)
+    tiles.placeOnRandomTile(player_1, sprites.skillmap.islandTile4)
 })
-let player_1 = sprites.create(img`
+let player_1: Sprite = null
+player_1 = sprites.create(img`
     . . . . . . f f f f . . . . . . 
     . . . . f f f 2 2 f f f . . . . 
     . . . f f f 2 2 2 2 f f f . . . 
@@ -97,3 +104,6 @@ controller.moveSprite(player_1, 50, 60)
 tiles.setCurrentTilemap(tilemap`層級`)
 tiles.placeOnRandomTile(player_1, sprites.dungeon.collectibleInsignia)
 scene.cameraFollowSprite(player_1)
+pause(100)
+game.showLongText("Where am I?", DialogLayout.Bottom)
+game.showLongText("Who am I?", DialogLayout.Bottom)
